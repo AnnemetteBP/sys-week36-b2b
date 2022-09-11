@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "gMdqkUazneuUyDFMC1dvXMxXJhtJK6xCNFWedT91G11KLMQHYXciZx1YMJb6FPhteM4uAiAu5rVoUngYrgVGVw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\r\\Source\\Repos\\B2B_Retailer_EasyNetQ\\Retailer\\Retailer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\r\\.nuget\\packages\\easynetq\\7.0.4\\easynetq.7.0.4.nupkg.sha512",
+    "C:\\Users\\r\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\r\\.nuget\\packages\\rabbitmq.client\\6.2.1\\rabbitmq.client.6.2.1.nupkg.sha512",
+    "C:\\Users\\r\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\r\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
